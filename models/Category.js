@@ -30,11 +30,3 @@ module.exports = Category;
     
     
     
-    
-    
-    
-    
-    
-    }
-
-)
