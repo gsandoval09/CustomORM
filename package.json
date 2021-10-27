@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/gsandoval09/CustomORM/issues"
   },
-  "homepage": "https://github.com/gsandoval09/CustomORM#readme"
+  "homepage": "https://github.com/gsandoval09/CustomORM#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "sequelize": "^6.8.0"
+  }
 }
