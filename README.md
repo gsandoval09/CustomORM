@@ -28,9 +28,8 @@ Check into Insomnia, search different Api routes you wish to see information on 
 
 ## Screenshot of site
 
-![Image]()
+![Image](Insomnia.png)
 
-![Image]()
 
 
 
