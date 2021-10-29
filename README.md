@@ -35,13 +35,13 @@ Check into Insomnia, search different Api routes you wish to see information on 
 
 ## Built With
 
-* [MySQL]()
+* [MySQL](https://dev.mysql.com/doc/)
 
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Deployed Link
 
-* [See Live Site]()
+* [See Live Site](https://gsandoval09.github.io/CustomORM/)
 
 
 ## Authors
